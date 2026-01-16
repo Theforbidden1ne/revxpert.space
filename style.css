@@ -1,0 +1,26 @@
+body {
+    background-color: #000033;
+    color: #00FF00; /* Classic Terminal Green */
+    font-family: "Comic Sans MS", "Arial", sans-serif;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    background-color: yellow;
+    color: black;
+    text-decoration: blink; /* The ultimate 90s annoyance */
+}
+
+h2 {
+    text-shadow: 2px 2px #FF0000;
+}
+
+ul {
+    border: 1px dashed #FFFFFF;
+    padding: 20px;
+    list-style-type: square;
+}
